@@ -1,0 +1,7 @@
+a.insert(x);
+
+a.erace(x);
+
+if (a.count(x)) {
+    
+}
